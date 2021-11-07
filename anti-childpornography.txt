@@ -11,7 +11,7 @@ home.kik.com
 # Connected2.me
 api.c2me.cc
 
-# Twiq
+# Twiq / Lovestatic
 twiqapp.firebaseio.com
 firebaseinappmessaging.googleapis.com
 firestore.googleapis.com
