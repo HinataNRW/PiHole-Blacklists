@@ -18,6 +18,7 @@ firestore.googleapis.com
 userlocation.googleapis.com
 
 # Badoo
+am1.badoo.com
 bma.badoo.app
 bmaeu.badoo.app
 bma-ssl-eu1.badoo.app
