@@ -16,3 +16,7 @@ twiqapp.firebaseio.com
 firebaseinappmessaging.googleapis.com
 firestore.googleapis.com
 userlocation.googleapis.com
+
+# Badoo
+bma.badoo.app
+eu1.badoo.com
