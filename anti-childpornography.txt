@@ -9,3 +9,6 @@ home.kik.com
 
 # Connected2.me
 api.c2me.cc
+
+# Twiq
+twiqapp.firebaseio.com
