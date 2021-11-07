@@ -40,3 +40,6 @@ disclosure.morpheus-meetic.fr
 www.meetic.fr
 
 authent.ilius.net
+
+# Yoomee
+a.service.yoomee.love
