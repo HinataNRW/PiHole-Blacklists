@@ -26,3 +26,4 @@ bmaeu.badoo.app
 
 b-pd1eu.tetoo.net
 eu.tetoo.net
+us.tetoo.net
