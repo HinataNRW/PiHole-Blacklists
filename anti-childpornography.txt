@@ -1,1 +1,7 @@
 # this file blocken childporn with Pi-Hole
+talk15380an.kik.com
+clientmetrics-augmentum.kik.com
+bots-api.kik.com
+clientmetrics.kik.com
+profilepics.cf.kik.com
+home.kik.com
