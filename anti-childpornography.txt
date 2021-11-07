@@ -31,3 +31,7 @@ us.tetoo.net
 
 # Zweisam
 www.zweisam.de
+
+talk-box.morpheus-meetic.fr
+sdk.messenger.morpheus-meetic.fr
+disclosure.morpheus-meetic.fr
