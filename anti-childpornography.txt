@@ -20,5 +20,6 @@ userlocation.googleapis.com
 # Badoo
 bma.badoo.app
 eu1.badoo.com
+pd1eu.badoocdn.com
 pd2eu.badoocdn.com
 bmaeu.badoo.app
