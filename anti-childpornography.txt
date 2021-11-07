@@ -29,9 +29,10 @@ b-pd1eu.tetoo.net
 eu.tetoo.net
 us.tetoo.net
 
-# Zweisam
+# Zweisam / Meetic
 www.zweisam.de
-
+www.zweisam.com
 talk-box.morpheus-meetic.fr
 sdk.messenger.morpheus-meetic.fr
 disclosure.morpheus-meetic.fr
+www.meetic.fr
