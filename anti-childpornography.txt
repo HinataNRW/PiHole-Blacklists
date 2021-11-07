@@ -43,3 +43,6 @@ authent.ilius.net
 
 # Yoomee
 a.service.yoomee.love
+
+# Lovoo
+api.lovoo.com
