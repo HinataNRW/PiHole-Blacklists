@@ -23,3 +23,6 @@ eu1.badoo.com
 pd1eu.badoocdn.com
 pd2eu.badoocdn.com
 bmaeu.badoo.app
+
+b-pd1eu.tetoo.net
+eu.tetoo.net
