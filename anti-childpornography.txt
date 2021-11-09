@@ -85,3 +85,4 @@ apps9.knuddels.biz
 knuddels.de
 cdnc.knuddelscom.de
 www.knuddels.de
+cdn.knuddelscom.de
