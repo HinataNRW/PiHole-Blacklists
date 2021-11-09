@@ -86,3 +86,12 @@ a.tellonym.me
 api.tellonym.me
 image.apiteamn.com
 prod.apiteamn.com
+bermuda-e96c4.firebaseapp.com
+bermuda-store-v2.thebermuda.net
+bermuda-e96c4.firebaseio.com
+ba-dot-bermuda-e96c4.appspot.com
+signal-v2.thebermuda.net
+braze2-dot-bermuda-e96c4.appspot.com
+bermuda-e96c4.appspot.com
+turn0010.thebermuda.net
+turn0031.thebermuda.net
