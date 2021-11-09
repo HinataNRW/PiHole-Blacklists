@@ -86,3 +86,8 @@ knuddels.de
 cdnc.knuddelscom.de
 www.knuddels.de
 cdn.knuddelscom.de
+
+# Jaumo / Joyride
+api.jaumo.com
+push.jaumo.com
+i.jaumo.com
