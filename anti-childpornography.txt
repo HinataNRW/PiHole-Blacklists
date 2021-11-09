@@ -2,6 +2,7 @@
 # Kik
 (\.|^)kik\.com$
 \.kik.com
+^kik.com
 
 # Connected2.me
 api.c2me.cc
