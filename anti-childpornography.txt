@@ -80,6 +80,8 @@ apps4.knuddels.biz
 apps5.knuddels.biz
 apps6.knuddels.biz
 apps7.knuddels.biz
+apps8.knuddels.biz
+apps9.knuddels.biz
 knuddels.de
 cdnc.knuddelscom.de
 www.knuddels.de
