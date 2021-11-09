@@ -99,3 +99,9 @@ www.randochat.com.br
 randochat-p3.nyc3.cdn.digitaloceanspaces.com
 randochat-p1.nyc3.cdn.digitaloceanspaces.com
 randochat-p2.nyc3.cdn.digitaloceanspaces.com
+# Phishing
+api2.random-chat-app.ru
+yandex.ru
+s3.selcdn.ru
+random-chat-app.ru
+www.koelnersingles.de
