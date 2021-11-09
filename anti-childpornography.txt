@@ -1,8 +1,11 @@
 # this file blocken childporn with Pi-Hole
 # Kik
-(\.|^)kik\.com$
-\.kik.com
-^kik.com
+alk15380an.kik.com
+clientmetrics-augmentum.kik.com
+bots-api.kik.com
+clientmetrics.kik.com
+profilepics.cf.kik.com
+home.kik.com
 
 # Connected2.me
 api.c2me.cc
@@ -44,12 +47,6 @@ a.service.yoomee.love
 
 # Lovoo
 api.lovoo.com
-
-# Jaumo / Bloom
-api.jaumo.com
-push.jaumo.com
-i.jaumo.com
-jaumo.com
 
 # Happn
 api.happn.fr
