@@ -44,8 +44,11 @@ www.meetic.fr
 
 authent.ilius.net
 
-# Yoomee
+# Yoomee / Yumy
 a.service.yoomee.love
+api.yumy.live
+image.yumy.live
+cdn.yumy.live
 
 # Lovoo
 api.lovoo.com
