@@ -49,3 +49,5 @@ api.lovoo.com
 
 # Jaumo / Bloom
 api.jaumo.com
+push.jaumo.com
+i.jaumo.com
