@@ -1,5 +1,9 @@
-# this file blocken childporn with Pi-Hole
-# Kik
+# this file blocked Chat-App's the shouldnt yous from Chidren
+b-pd1eu.tetoo.net
+eu.tetoo.net
+us.tetoo.net
+api16-access-sg.pangle.io
+api.c2me.cc
 talk15380an.kik.com
 clientmetrics-augmentum.kik.com
 bots-api.kik.com
@@ -8,17 +12,10 @@ profilepics.cf.kik.com
 home.kik.com
 engine.apikik.com
 video-api.gateway.kik-live.com
-
-# Connected2.me
-api.c2me.cc
-
-# Twiq / Lovestatic
 twiqapp.firebaseio.com
 firebaseinappmessaging.googleapis.com
 firestore.googleapis.com
 userlocation.googleapis.com
-
-# Badoo
 am1.badoo.com
 bma.badoo.app
 bmaeu.badoo.app
@@ -27,14 +24,6 @@ bma-ssl-us1.badoo.app
 eu1.badoo.com
 pd1eu.badoocdn.com
 pd2eu.badoocdn.com
-
-# Zusatzdienste
-b-pd1eu.tetoo.net
-eu.tetoo.net
-us.tetoo.net
-api16-access-sg.pangle.io
-
-# Zweisam / Meetic
 www.zweisam.de
 www.zweisam.com
 talk-box.morpheus-meetic.fr
@@ -44,16 +33,11 @@ www.meetic.fr
 
 authent.ilius.net
 
-# Yoomee / Yumy
 a.service.yoomee.love
 api.yumy.live
 image.yumy.live
 cdn.yumy.live
-
-# Lovoo
 api.lovoo.com
-
-# Happn
 api.happn.fr
 a.happn.com
 
@@ -63,13 +47,10 @@ images.diceclubsazure.com
 diceclubs-prod1.bintapi.com
 diceclubs-prod2.bintapi.com
 
-# Whisper
 whisper.api.tigertext.me
 prod-android.whisper.sh
 cdn-client.whisper.sh
 cdn-client-video.whisper.sh
-
-# Knuddels
 chat.knuddels.de
 chatproxy.knuddels.de
 photo.knuddels.de
@@ -86,13 +67,9 @@ knuddels.de
 cdnc.knuddelscom.de
 www.knuddels.de
 cdn.knuddelscom.de
-
-# Jaumo / Joyride
 api.jaumo.com
 push.jaumo.com
 i.jaumo.com
-
-#Fremdgehen69 / C-Date
 fremtrfn.club
 date.fremdgehen69.com
 c.fremtrfn.club
@@ -100,3 +77,12 @@ meetsinglewomen.club
 www.c-date.de
 api.c-date.com
 res.c-date.de
+api.popcorn-dating.com
+img.popcorn-dating.com
+amouschat.com
+moneta.tellonym.me
+chat-api.tellonym.me
+a.tellonym.me
+api.tellonym.me
+image.apiteamn.com
+prod.apiteamn.com
