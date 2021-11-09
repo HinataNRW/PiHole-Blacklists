@@ -68,3 +68,15 @@ whisper.api.tigertext.me
 prod-android.whisper.sh
 cdn-client.whisper.sh
 cdn-client-video.whisper.sh
+
+# Knuddels
+chat.knuddels.de
+chatproxy.knuddels.de
+photo.knuddels.de
+apps1.knuddels.biz
+apps2.knuddels.biz
+apps3.knuddels.biz
+apps4.knuddels.biz
+apps5.knuddels.biz
+apps6.knuddels.biz
+apps7.knuddels.biz
