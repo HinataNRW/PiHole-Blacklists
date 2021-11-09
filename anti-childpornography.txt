@@ -54,3 +54,7 @@ api.jaumo.com
 push.jaumo.com
 i.jaumo.com
 jaumo.com
+
+# Happn
+api.happn.fr
+a.happn.com
