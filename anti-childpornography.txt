@@ -6,6 +6,8 @@ bots-api.kik.com
 clientmetrics.kik.com
 profilepics.cf.kik.com
 home.kik.com
+engine.apikik.com
+video-api.gateway.kik-live.com
 
 # Connected2.me
 api.c2me.cc
