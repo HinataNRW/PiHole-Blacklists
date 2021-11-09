@@ -27,9 +27,11 @@ eu1.badoo.com
 pd1eu.badoocdn.com
 pd2eu.badoocdn.com
 
+# Zusatzdienste
 b-pd1eu.tetoo.net
 eu.tetoo.net
 us.tetoo.net
+api16-access-sg.pangle.io
 
 # Zweisam / Meetic
 www.zweisam.de
@@ -51,3 +53,4 @@ api.lovoo.com
 api.jaumo.com
 push.jaumo.com
 i.jaumo.com
+jaumo.com
