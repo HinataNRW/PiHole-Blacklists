@@ -105,3 +105,15 @@ yandex.ru
 s3.selcdn.ru
 random-chat-app.ru
 www.koelnersingles.de
+api.bildkontakte.de
+static.bildkontakte.de
+www.bildkontakte.de
+registration.bildkontakte.de
+bildkontakte.de
+dw-api.holla.world
+static.holla.world
+api.winktesting.com
+getwinkapp.com
+www.getwinkapp.com
+android.spotted.de
+www.spotted.de
