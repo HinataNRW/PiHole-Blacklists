@@ -117,3 +117,13 @@ getwinkapp.com
 www.getwinkapp.com
 android.spotted.de
 www.spotted.de
+pushservice.spotted.de
+spotted-alpha.azureedge.net
+jobs.spotted.de
+wink-6068d.firebaseapp.com
+sync.blindmate.de
+static.blindmate.de
+link.blindmate.de
+api.blindmate.de
+blindmate.de
+www.blindmate.de
