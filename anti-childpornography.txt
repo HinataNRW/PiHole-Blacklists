@@ -171,3 +171,13 @@ cdn-v3.justsayhi.com
 api.justsayhi.com
 justsayhi.com
 www.justsayhi.com
+api.purechat.in
+cdn1.purechat.in
+cognito-identity.ap-south-1.amazonaws.com
+pure-api.soulplatform.com
+purematch.co
+api.purematch.co
+purematch.org
+api.purematch.org
+www.purematch.co
+pm-match.us-west-2.elasticbeanstalk.com
