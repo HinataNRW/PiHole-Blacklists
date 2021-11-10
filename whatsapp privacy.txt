@@ -1,0 +1,14 @@
+docker.whatsapp.biz
+mmx-ds.cdn.whatsapp.net
+chat-e2ee-mini.facebook.com
+mqtt-mini.facebook.com
+static.whatsapp.net
+g.whatsapp.net
+dit.whatsapp.net
+e9.whatsapp.net
+e10.whatsapp.net
+e11.whatsapp.net
+e12.whatsapp.net
+e13.whatsapp.net
+e14.whatsapp.net
+e15.whatsapp.net
