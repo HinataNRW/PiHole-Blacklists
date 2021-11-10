@@ -149,3 +149,9 @@ ronghub.com
 api.olderwomendating.com
 cupidabo.com
 m.cupidabo.com
+cupi.chat
+m.cupi.chat
+api.evermatch.me
+evermatch.me
+wss-chat.evermatch.me
+img.evermatch.me
