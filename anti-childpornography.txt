@@ -132,3 +132,6 @@ belovd.app
 api.belovd.app
 belovd.de
 belovd.com
+api2.shuffley.io
+appconfig.shuffley.io
+mqtt2.shuffley.io
