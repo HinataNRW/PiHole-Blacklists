@@ -135,3 +135,11 @@ belovd.com
 api2.shuffley.io
 appconfig.shuffley.io
 mqtt2.shuffley.io
+api.candidate-endpoint.com
+ws.candidate-endpoint.com
+chat.candidate-endpoint.com
+images.candidate-endpoint.com
+www.thechattingapp.com
+chathub.livedigitalgroup.com
+chathunt.app
+api.strangerchat.io
