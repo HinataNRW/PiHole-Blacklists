@@ -166,3 +166,8 @@ api.datewall.xyz
 flirtvip.space
 fickchat.live
 v3.http.api.mein-chat.com
+inbox.justsayhi.com
+cdn-v3.justsayhi.com
+api.justsayhi.com
+justsayhi.com
+www.justsayhi.com
