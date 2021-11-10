@@ -127,3 +127,8 @@ link.blindmate.de
 api.blindmate.de
 blindmate.de
 www.blindmate.de
+api.lovd.de
+belovd.app
+api.belovd.app
+belovd.de
+belovd.com
