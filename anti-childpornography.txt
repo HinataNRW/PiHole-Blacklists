@@ -181,3 +181,8 @@ purematch.org
 api.purematch.org
 www.purematch.co
 pm-match.us-west-2.elasticbeanstalk.com
+api.whatschat.com
+www.whatschat.com
+assets.whatschat.com
+cimage.mydates.com
+api.mydates.com
