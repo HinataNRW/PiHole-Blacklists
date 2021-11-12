@@ -186,3 +186,12 @@ www.whatschat.com
 assets.whatschat.com
 cimage.mydates.com
 api.mydates.com
+app.playfmk.com	
+api.playfmk.com
+joostly.com
+api.joostly.com
+api.herzlich.app
+herzlich.app
+api.icatched.de
+icatched.de
+media.icatchedfiles.de
