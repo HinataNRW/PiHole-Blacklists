@@ -195,3 +195,12 @@ herzlich.app
 api.icatched.de
 icatched.de
 media.icatchedfiles.de
+api.onceapi.com
+getonce.com
+static.getonce.com
+upload.plentyoffish.com
+skipped.de
+api.skipped.de
+www.skipped.de
+skipped2.de
+api.skipped2.de
