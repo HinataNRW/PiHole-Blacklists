@@ -204,3 +204,11 @@ api.skipped.de
 www.skipped.de
 skipped2.de
 api.skipped2.de
+www.catbyte.io
+app.woo-api.com
+api.mequeres.com.br
+www.mequeres.com
+imagens.mequerescdn.com
+api.vidchatme.com
+static.vidchatme.com
+liveplay.vidchatme.com
