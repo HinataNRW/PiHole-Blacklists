@@ -5,6 +5,11 @@ mqtt-mini.facebook.com
 static.whatsapp.net
 g.whatsapp.net
 dit.whatsapp.net
+e4.whatsapp.net
+e5.whatsapp.net
+e6.whatsapp.net
+e7.whatsapp.net
+e8.whatsapp.net
 e9.whatsapp.net
 e10.whatsapp.net
 e11.whatsapp.net
