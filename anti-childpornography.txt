@@ -233,3 +233,25 @@ ppc-cdn.upliveapp.com
 fp-api.upliveapp.com
 fp-cdn.upliveapp.com
 p-pepper.upliveapp.com
+
+# Chatroom2000
+bilder.fun2000.info
+www.chatroom2000.de
+
+# Zwinker me
+zwinkr.me
+zwinkr.de
+
+# Whats Affaire
+www.whatsaffair.de
+whatsaffair.de
+media.whatsaffair.de
+
+# Seitensprung Markt
+www.seitensprungmarkt.com
+seitensprungmarkt.com
+media.seitensprungmarkt.com
+
+# Seitensprung Treff 24
+www.seitensprungtreff24.com
+media.seitensprungtreff24.com
