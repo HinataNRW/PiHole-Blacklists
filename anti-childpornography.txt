@@ -15,7 +15,7 @@ video-api.gateway.kik-live.com
 twiqapp.firebaseio.com
 firebaseinappmessaging.googleapis.com
 firestore.googleapis.com
-userlocation.googleapis.com
+
 am1.badoo.com
 bma.badoo.app
 bmaeu.badoo.app
@@ -212,6 +212,8 @@ imagens.mequerescdn.com
 api.vidchatme.com
 static.vidchatme.com
 liveplay.vidchatme.com
+
+# Uplive
 a.upliveapp.com
 m.upliveapps.com
 h5.upliveapp.com
