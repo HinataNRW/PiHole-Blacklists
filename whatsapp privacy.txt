@@ -1,3 +1,5 @@
+# WhatsApp
+
 docker.whatsapp.biz
 mmx-ds.cdn.whatsapp.net
 chat-e2ee-mini.facebook.com
@@ -5,6 +7,9 @@ mqtt-mini.facebook.com
 static.whatsapp.net
 g.whatsapp.net
 dit.whatsapp.net
+e1.whatsapp.net
+e2.whatsapp.net
+e3.whatsapp.net
 e4.whatsapp.net
 e5.whatsapp.net
 e6.whatsapp.net
@@ -19,3 +24,14 @@ e14.whatsapp.net
 e15.whatsapp.net
 mmg.whatsapp.net
 pps.whatsapp.net
+media-dus1-1.cdn.whatsapp.net
+
+# FaceBook
+api.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+graph.facebook.com
+web.facebook.com
+graph.fbpigeon.com
+chat-e2ee-mini.facebook.com
+z-p42-chat-e2ee-ig.facebook.com
