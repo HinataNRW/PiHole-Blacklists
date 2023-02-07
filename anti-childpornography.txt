@@ -185,7 +185,11 @@ api.whatschat.com
 www.whatschat.com
 assets.whatschat.com
 cimage.mydates.com
+image.mydates.com
+mydates.com
 api.mydates.com
+
+# Gemeldet an Semper
 app.playfmk.com	
 api.playfmk.com
 joostly.com
@@ -195,10 +199,6 @@ herzlich.app
 api.icatched.de
 icatched.de
 media.icatchedfiles.de
-api.onceapi.com
-getonce.com
-static.getonce.com
-upload.plentyoffish.com
 skipped.de
 api.skipped.de
 www.skipped.de
@@ -212,8 +212,7 @@ imagens.mequerescdn.com
 api.vidchatme.com
 static.vidchatme.com
 liveplay.vidchatme.com
-
-# Uplive
+g-cdn.upliveapps.com
 a.upliveapp.com
 m.upliveapps.com
 h5.upliveapp.com
@@ -235,37 +234,17 @@ ppc-cdn.upliveapp.com
 fp-api.upliveapp.com
 fp-cdn.upliveapp.com
 p-pepper.upliveapp.com
-
-# Chatroom2000
 bilder.fun2000.info
 www.chatroom2000.de
-
-# Zwinker me
 zwinkr.me
 zwinkr.de
-
-# Whats Affaire
 www.whatsaffair.de
 whatsaffair.de
 media.whatsaffair.de
-
-# Seitensprung Markt
 www.seitensprungmarkt.com
 seitensprungmarkt.com
 media.seitensprungmarkt.com
-
-# Seitensprung Treff 24
 www.seitensprungtreff24.com
 media.seitensprungtreff24.com
-
-# Zoophylie
-zoo.zone
-zoozoosexporn.com
-zoosextube.life
-zoopornstream.z00.monster
-zooporn.pro
-pussyanimalsex.fun
-zooporn.shiksha
-
 www.fkkdates.com
 fkkdates.com
