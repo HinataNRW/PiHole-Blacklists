@@ -1,0 +1,3 @@
+api.onceapi.com
+getonce.com
+static.getonce.com
