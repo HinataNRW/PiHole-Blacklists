@@ -181,15 +181,14 @@ purematch.org
 api.purematch.org
 www.purematch.co
 pm-match.us-west-2.elasticbeanstalk.com
+
+# Gemeldet an Semper
 api.whatschat.com
 www.whatschat.com
 assets.whatschat.com
-cimage.mydates.com
 image.mydates.com
-mydates.com
+cimage.mydates.com
 api.mydates.com
-
-# Gemeldet an Semper
 app.playfmk.com	
 api.playfmk.com
 joostly.com
