@@ -1,5 +1,5 @@
 # WhatsApp
-
+wa.me
 docker.whatsapp.biz
 mmx-ds.cdn.whatsapp.net
 chat-e2ee-mini.facebook.com
@@ -29,9 +29,18 @@ media-dus1-1.cdn.whatsapp.net
 # FaceBook
 api.facebook.com
 b-api.facebook.com
+b-www.facebook.com
 b-graph.facebook.com
+edge-mqtt.facebook.com
 graph.facebook.com
 web.facebook.com
 graph.fbpigeon.com
+graph-fallback.facebook.com
+portal.fb.com
 chat-e2ee-mini.facebook.com
 z-p42-chat-e2ee-ig.facebook.com
+
+#Instagram
+scontent-dus1-1.cdninstagram.com
+i.instagram.com
+graph.instagram.com
