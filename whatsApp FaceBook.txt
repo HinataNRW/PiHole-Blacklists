@@ -46,3 +46,4 @@ scontent-dus1-1.cdninstagram.com
 i.instagram.com
 graph.instagram.com
 scontent.cdninstagram.com
+b.i.instagram.com
