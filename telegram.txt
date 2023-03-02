@@ -14,7 +14,7 @@ proxyx.tk
 south01.duckdns.org
 t.me
 t.webhop.me
-telegram
+(\.|^)telegram$
 telegram.dog
 telegram.id
 telegram.me
