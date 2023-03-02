@@ -1,4 +1,6 @@
 # WhatsApp
+(\.|^)whatsapp$
+(\.|^)wa\.me$
 wa.me
 docker.whatsapp.biz
 mmx-ds.cdn.whatsapp.net
@@ -27,6 +29,7 @@ pps.whatsapp.net
 media-dus1-1.cdn.whatsapp.net
 
 # FaceBook
+(\.|^)xx\.fbcdn\.net$
 api.facebook.com
 b-api.facebook.com
 b-www.facebook.com
