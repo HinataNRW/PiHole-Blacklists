@@ -1,6 +1,4 @@
 # WhatsApp
-(\.|^)whatsapp$
-(\.|^)wa\.me$
 wa.me
 docker.whatsapp.biz
 mmx-ds.cdn.whatsapp.net
@@ -24,6 +22,7 @@ e12.whatsapp.net
 e13.whatsapp.net
 e14.whatsapp.net
 e15.whatsapp.net
+v.whatsapp.net
 mmg.whatsapp.net
 pps.whatsapp.net
 media-dus1-1.cdn.whatsapp.net
