@@ -29,7 +29,6 @@ pps.whatsapp.net
 media-dus1-1.cdn.whatsapp.net
 
 # FaceBook
-(\.|^)xx\.fbcdn\.net$
 api.facebook.com
 b-api.facebook.com
 b-www.facebook.com
@@ -39,7 +38,9 @@ graph.facebook.com
 web.facebook.com
 graph.fbpigeon.com
 graph-fallback.facebook.com
+scontent-lhr8-1.xx.fbcdn.net
 portal.fb.com
+cdn.fbsbx.com
 chat-e2ee-mini.facebook.com
 z-p42-chat-e2ee-ig.facebook.com
 lookaside.facebook.com
