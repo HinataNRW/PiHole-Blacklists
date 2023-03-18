@@ -38,11 +38,15 @@ web.facebook.com
 graph.fbpigeon.com
 graph-fallback.facebook.com
 scontent-lhr8-1.xx.fbcdn.net
+scontent-dus1-1.xx.fbcdn.net
 portal.fb.com
 cdn.fbsbx.com
 chat-e2ee-mini.facebook.com
 z-p42-chat-e2ee-ig.facebook.com
 lookaside.facebook.com
+connect.facebook.net
+sonar6-sea1-1.xx.fbcdn.net
+gateway.facebook.com
 
 #Instagram
 scontent-dus1-1.cdninstagram.com
@@ -50,3 +54,4 @@ i.instagram.com
 graph.instagram.com
 scontent.cdninstagram.com
 b.i.instagram.com
+gateway.instagram.com
