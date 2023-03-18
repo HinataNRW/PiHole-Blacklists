@@ -177,10 +177,7 @@ cognito-identity.ap-south-1.amazonaws.com
 pure-api.soulplatform.com
 purematch.co
 api.purematch.co
-purematch.org
-api.purematch.org
-www.purematch.co
-pm-match.us-west-2.elasticbeanstalk.com
+
 
 # Gemeldet an Semper
 api.whatschat.com
@@ -247,3 +244,8 @@ www.seitensprungtreff24.com
 media.seitensprungtreff24.com
 www.fkkdates.com
 fkkdates.com
+
+purematch.org
+api.purematch.org
+www.purematch.co
+pm-match.us-west-2.elasticbeanstalk.com
