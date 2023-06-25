@@ -27,6 +27,18 @@ mmg.whatsapp.net
 pps.whatsapp.net
 media-dus1-1.cdn.whatsapp.net
 
+1.9.87.98 
+3.213.253.46 
+24.222.115.33
+2.228.46.33
+1.54.241.98 
+31.13.64.210 
+36.91.202.34 
+24.244.35.36 
+24.25.240.226 
+24.200.238.162
+1.38.5.34
+
 # FaceBook
 api.facebook.com
 b-api.facebook.com
