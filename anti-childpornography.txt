@@ -51,6 +51,7 @@ whisper.api.tigertext.me
 prod-android.whisper.sh
 cdn-client.whisper.sh
 cdn-client-video.whisper.sh
+
 chat.knuddels.de
 chatproxy.knuddels.de
 photo.knuddels.de
@@ -67,6 +68,7 @@ knuddels.de
 cdnc.knuddelscom.de
 www.knuddels.de
 cdn.knuddelscom.de
+
 api.jaumo.com
 push.jaumo.com
 i.jaumo.com
@@ -80,6 +82,7 @@ res.c-date.de
 api.popcorn-dating.com
 img.popcorn-dating.com
 amouschat.com
+
 moneta.tellonym.me
 chat-api.tellonym.me
 a.tellonym.me
@@ -99,6 +102,7 @@ www.randochat.com.br
 randochat-p3.nyc3.cdn.digitaloceanspaces.com
 randochat-p1.nyc3.cdn.digitaloceanspaces.com
 randochat-p2.nyc3.cdn.digitaloceanspaces.com
+
 # Phishing
 api2.random-chat-app.ru
 yandex.ru
@@ -173,13 +177,10 @@ justsayhi.com
 www.justsayhi.com
 api.purechat.in
 cdn1.purechat.in
-cognito-identity.ap-south-1.amazonaws.com
 pure-api.soulplatform.com
 purematch.co
 api.purematch.co
 
-
-# Gemeldet an Semper
 api.whatschat.com
 www.whatschat.com
 assets.whatschat.com
