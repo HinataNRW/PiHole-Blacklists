@@ -16,6 +16,9 @@ twiqapp.firebaseio.com
 firebaseinappmessaging.googleapis.com
 firestore.googleapis.com
 
+bliveclub.table.core.windows.net
+blivechallenge.table.core.windows.net
+
 am1.badoo.com
 bma.badoo.app
 bmaeu.badoo.app
