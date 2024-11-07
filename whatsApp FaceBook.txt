@@ -57,6 +57,7 @@ b-graph.facebook.com
 edge-mqtt.facebook.com
 graph.facebook.com
 web.facebook.com
+m.facebook.com
 graph.fbpigeon.com
 graph-fallback.facebook.com
 scontent-lhr8-1.xx.fbcdn.net
@@ -79,3 +80,4 @@ graph.instagram.com
 scontent.cdninstagram.com
 b.i.instagram.com
 gateway.instagram.com
+instagram.com
