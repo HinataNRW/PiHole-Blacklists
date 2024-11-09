@@ -50,15 +50,17 @@ media-dus1-1.cdn.whatsapp.net
 113.171.66.226
 
 # FaceBook
-||facebook.com
-||fbsbx.com
-||apps.fbsbx.com
-||ak.fbcdn.net
-||tfbnw.net
-||facebook.net
-||fbcdn.com
-||apps.fbsbx.com
-||fbcdn.net
+||facebook.com^
+||fbsbx.com^
+||apps.fbsbx.com^
+||ak.fbcdn.net^
+||tfbnw.net^
+||facebook.net^
+||fbcdn.com^
+||apps.fbsbx.com^
+||fbcdn.net^
+||facebook.com^
+||mirror.facebook.net^
 graph.fbpigeon.com
 scontent-lhr8-1.xx.fbcdn.net
 scontent-dus1-1.xx.fbcdn.net
