@@ -50,6 +50,16 @@ media-dus1-1.cdn.whatsapp.net
 113.171.66.226
 
 # FaceBook
+||.facebook.com
+||.fbsbx.com
+||.apps.fbsbx.com
+||.ak.fbcdn.net
+||.tfbnw.net
+||.facebook.net
+||.fbcdn.com
+||.apps.fbsbx.com
+||.fbcdn.net
+||.facebook.com
 api.facebook.com
 b-api.facebook.com
 b-www.facebook.com
