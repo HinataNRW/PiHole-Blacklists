@@ -49,6 +49,8 @@ diceclubs-prod3.bintapi.com
 images.diceclubsazure.com
 diceclubs-prod1.bintapi.com
 diceclubs-prod2.bintapi.com
+diceclub.com
+diceclubs.com
 
 whisper.api.tigertext.me
 prod-android.whisper.sh
