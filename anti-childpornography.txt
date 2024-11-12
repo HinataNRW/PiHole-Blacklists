@@ -1,7 +1,5 @@
 # this file blocked Chat-App's the shouldnt yous from Chidren
-b-pd1eu.tetoo.net
-eu.tetoo.net
-us.tetoo.net
+||tetoo.net^
 api16-access-sg.pangle.io
 api.c2me.cc
 talk15380an.kik.com
@@ -19,6 +17,7 @@ firestore.googleapis.com
 bliveclub.table.core.windows.net
 blivechallenge.table.core.windows.net
 
+badoo.com
 am1.badoo.com
 bma.badoo.app
 bmaeu.badoo.app
