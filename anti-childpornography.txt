@@ -39,6 +39,7 @@ authent.ilius.net
 ||diceclubs.com^
 ||diceclub.app^
 ||diceclubs.app^
+||b-interaktive.com^
 
 whisper.api.tigertext.me
 ||whisper.sh^
