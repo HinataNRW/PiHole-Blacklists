@@ -11,6 +11,7 @@ firestore.googleapis.com
 
 ||table.core.windows.net^
 ||table.core.windows.com^
+||fastly.com^
 
 badoo.com
 ||badoo.com^
