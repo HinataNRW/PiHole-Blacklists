@@ -1,11 +1,18 @@
 # this file blocked Chat-App's the shouldnt yous from Chidren
-||tetoo.net^
-||pangle.io^
-||c2me.cc^
-||kik.com^
-||apikik.com^
-||kik-live.com^
+tetoo.net
+pangle.io
+c2me.cc
+kik.com
+kik.app
+apikik.com
+api.kik.com
+app.kik.com
+kik-live.com
 twiqapp.firebaseio.com
+twiq.net
+twiq.api
+twiq.app
+
 firebaseinappmessaging.googleapis.com
 firestore.googleapis.com
 
