@@ -1,4 +1,4 @@
-# this file blocked Chat-App's the shouldnt yous from Chidren
+2# this file blocked Chat-App's the shouldnt yous from Chidren
 tetoo.net
 pangle.io
 c2me.cc
@@ -42,15 +42,15 @@ authent.ilius.net
 ||happn.fr^
 ||happn.com^
 
-||diceclubs-prod3.bintapi.com^
-||diceclubsazure.com^
-||diceclubs-prod1.bintapi.com^
-||diceclubs-prod2.bintapi.com^
-||diceclub.com^
-||diceclubs.com^
-||diceclub.app^
-||diceclubs.app^
-||b-interaktive.com^
+diceclubs-prod3.bintapi.com
+diceclubsazure.com
+diceclubs-prod1.bintapi.com
+diceclubs-prod2.bintapi.com
+diceclub.com
+diceclubs.com
+diceclub.app
+diceclubs.app
+b-interaktive.com
 
 whisper.api.tigertext.me
 ||whisper.sh^
