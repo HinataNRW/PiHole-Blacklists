@@ -11,6 +11,9 @@ kik-live.com
 twiqapp.firebaseio.com
 twiq.net
 twiq.api
+twiq.ch
+apitwiq.ch
+api.twiq.ch
 twiq.app
 
 firebaseinappmessaging.googleapis.com
