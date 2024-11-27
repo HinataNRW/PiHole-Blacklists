@@ -1,0 +1,24 @@
+chat.signal.org
+storage.signal.org
+chat.signal.org	192.168.0.165	OK (answered by
+dns.google#53)	CNAME (23.7ms)	
+2024-11-27
+05:56:42	A	chat.signal.org	192.168.0.165	OK (answered by
+dns.google#53)	CNAME (21.5ms)	
+2024-11-27
+05:49:32	A	chat.signal.org	192.168.0.165	OK (answered by
+dns.google#53)	CNAME (21.4ms)	
+2024-11-27
+05:19:33	A	storage.signal.org	192.168.0.165	OK (answered by
+dns.google#53)	CNAME (40.5ms)	
+2024-11-27
+05:19:33	A	chat.signal.org	192.168.0.165	OK (answered by
+dns.google#53)	CNAME (19.1ms)	
+2024-11-27
+04:34:33	A	chat.signal.org	192.168.0.165	OK (answered by
+dns.google#53)	CNAME (22.8ms)	
+2024-11-27
+03:05:05	A	storage.signal.org	192.168.0.165	OK (answered by
+dns.google#53)	CNAME (29.8ms)	
+2024-11-27
+03:05:04	A	chat.signal.org
