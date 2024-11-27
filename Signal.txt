@@ -3,3 +3,5 @@ storage.signal.org
 login.signal.org
 signal.org
 api.signal.org
+support.signal.org
+community.signalusers.org
