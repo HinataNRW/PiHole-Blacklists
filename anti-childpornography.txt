@@ -9,6 +9,9 @@ bots-api.kik.com
 clientmetrics.kik.com
 profilepics.cf.kik.com
 home.kik.com
+chat.kik.com
+login.kik.com
+live.kik.com
 engine.apikik.com
 password.kik.com
 video-api.gateway.kik-live.com
