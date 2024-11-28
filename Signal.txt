@@ -24,3 +24,4 @@ signal.whispersystems.org
 internal.signalservice.whispersystems.org
 messages.api.signalservice.whispersystems.org
 org.signal.core.util.update
+whispersystems.org
