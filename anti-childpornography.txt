@@ -9,6 +9,7 @@ clientmetrics-augmentum.kik.com
 bots-api.kik.com
 clientmetrics.kik.com
 profilepics.cf.kik.com
+video.kik.com
 home.kik.com
 chat.kik.com
 group.kik.com
