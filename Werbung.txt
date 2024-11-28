@@ -1,2 +1,4 @@
 am-vid-events.taboola.com
 taboola.com
+s.seedtag.com
+seedtag.com
