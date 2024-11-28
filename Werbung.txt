@@ -2,3 +2,8 @@ am-vid-events.taboola.com
 taboola.com
 s.seedtag.com
 seedtag.com
+yieldlab.net
+counts.yieldlab.net
+yieldlab.com
+counts.yieldlab.com
+virtualminds.com
