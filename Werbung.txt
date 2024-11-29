@@ -29,3 +29,5 @@ rtb.api.vungle.com
 tpat.api.vungle.com
 
 thestartmagazine.com 
+
+odr.mookie1.com
