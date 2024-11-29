@@ -44,6 +44,12 @@ scontent-dus1-1.cdninstagram.com
 i.instagram.com
 graph.instagram.com
 
+signal.art
+signal.group
+signal.link
+signal.me
+signal.tube
+Signal.core
 chat.signal.org
 storage.signal.org
 login.signal.org
