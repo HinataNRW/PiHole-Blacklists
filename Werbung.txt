@@ -1,5 +1,8 @@
 am-vid-events.taboola.com
 taboola.com
+am-wf.taboola.com
+taboolanews.com
+
 s.seedtag.com
 seedtag.com
 yieldlab.net
@@ -25,6 +28,4 @@ rtb.ads.vungle.com
 rtb.api.vungle.com
 tpat.api.vungle.com
 
-taboola.com
-taboolanews.com
 thestartmagazine.com 
