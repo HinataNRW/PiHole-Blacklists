@@ -35,6 +35,11 @@ twiqapp.firebaseio.com
 firebaseinappmessaging.googleapis.com
 firestore.googleapis.com
 
+line.me
+linecorp.com
+line.naver.jp
+lin.ee
+
 am1.badoo.com
 bma.badoo.app
 bmaeu.badoo.app
@@ -42,8 +47,7 @@ bumble.com
 bumbcdn.com
 badoo.com
 badoocdn.com
-badoo.app 
-
+badoo.app
 bma-ssl-eu1.badoo.app
 bma-ssl-us1.badoo.app
 eu1.badoo.com
