@@ -1,3 +1,4 @@
+#Werbung
 am-vid-events.taboola.com
 taboola.com
 am-wf.taboola.com
@@ -28,6 +29,22 @@ rtb.ads.vungle.com
 rtb.api.vungle.com
 tpat.api.vungle.com
 
-thestartmagazine.com 
+thestartmagazine.com
 
+c1.adform.net
+
+image1.pubmatic.com
+image2.pubmatic.com
+image3.pubmatic.com
+image4.pubmatic.com
+image5.pubmatic.com
+image6.pubmatic.com
+image7.pubmatic.com
+image8.pubmatic.com
+image9.pubmatic.com
+
+#Maleware
 odr.mookie1.com
+a.rfihub.com
+p.rfihub.com
+id5-sync.com
