@@ -6,6 +6,7 @@ api.c2me.cc
 talk15380an.kik.com
 ams.cf.kik.com
 bots-api.kik.com
+meme.kik.com
 cdn.kik.com
 email.kik.com
 platform.cf.kik.com
@@ -17,6 +18,7 @@ talk15660an.kik.com
 talk15680an.kik.com
 talk1600ip.kik.com
 talk.kik.com
+terms.video.kik-live.com
 clientmetrics-augmentum.kik.com
 bots-api.kik.com
 clientmetrics.kik.com
@@ -28,6 +30,8 @@ group.kik.com
 login.kik.com
 kik.com
 live.kik.com
+video.kik-live.com
+kik-live.com
 engine.apikik.com
 password.kik.com
 video-api.gateway.kik-live.com
@@ -108,6 +112,8 @@ cdn.knuddelscom.de
 weixin.qq.com
 wechat.com
 wx.qq.com 
+
+verifymeetups.com
 
 mtalk.google.com
 chat.google.com
