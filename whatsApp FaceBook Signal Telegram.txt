@@ -49,11 +49,12 @@ signal.group
 signal.link
 signal.me
 signal.tube
-Signal.core
-chat.signal.org
+signal.core
 storage.signal.org
 login.signal.org
 signal.org
+signal.com
+signal.net
 message.signal.org
 messages.signal.org
 api.signal.org
