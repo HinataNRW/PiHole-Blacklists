@@ -83,6 +83,8 @@ blivechallenge.table.core.windows.com
 bliveclub.table.core.windows.org
 blivechallenge.table.core.windows.org
 diceclubs.com
+blive2.table.core.windows.net
+dcimages.blob.core.windows.net
 diceclub.app
 diceclubs.app
 b-interaktive.com
