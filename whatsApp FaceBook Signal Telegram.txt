@@ -27,23 +27,6 @@ pps.whatsapp.net
 media-dus1-1.cdn.whatsapp.net
 media-dus1-2.cdn.whatsapp.net
 
-api.facebook.com
-b-api.facebook.com
-b-www.facebook.com
-b-graph.facebook.com
-edge-mqtt.facebook.com
-graph.facebook.com
-web.facebook.com
-graph.fbpigeon.com
-graph-fallback.facebook.com
-portal.fb.com
-chat-e2ee-mini.facebook.com
-z-p42-chat-e2ee-ig.facebook.com
-
-scontent-dus1-1.cdninstagram.com
-i.instagram.com
-graph.instagram.com
-
 signal.art
 signal.group
 signal.link
