@@ -6,7 +6,7 @@ api.c2me.cc
 
 ||kik.com^
 ||kik-live.com^
-||apikik.com^
+engine.apikik.com
 
 twiqapp.firebaseio.com
 firebaseinappmessaging.googleapis.com
