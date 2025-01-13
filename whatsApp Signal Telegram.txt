@@ -35,6 +35,7 @@ signal.tube
 signal.core
 storage.signal.org
 login.signal.org
+||signal.org^
 signal.org
 signal.com
 signal.net
