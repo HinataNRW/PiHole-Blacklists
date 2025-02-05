@@ -1,4 +1,3 @@
-b-pd1eu.tetoo.net
 eu.tetoo.net
 us.tetoo.net
 api16-access-sg.pangle.io
@@ -12,18 +11,12 @@ linecorp.com
 line.naver.jp
 lin.ee
 
-www.zweisam.de
-www.zweisam.com
 talk-box.morpheus-meetic.fr
 sdk.messenger.morpheus-meetic.fr
 disclosure.morpheus-meetic.fr
 www.meetic.fr
 authent.ilius.net
-a.service.yoomee.love
-api.yumy.live
-image.yumy.live
-cdn.yumy.live
-api.lovoo.com
+
 api.happn.fr
 a.happn.com
 
@@ -67,7 +60,6 @@ meetings.googleapis.com
 meet.google.com
 hangouts.clients6.google.com
 
-snapchat.com
 sc-static.net
 snapkit.com
 snap-storage-cdn.l.google.com
@@ -79,9 +71,6 @@ fremtrfn.club
 date.fremdgehen69.com
 c.fremtrfn.club
 meetsinglewomen.club
-www.c-date.de
-api.c-date.com
-res.c-date.de
 api.popcorn-dating.com
 img.popcorn-dating.com
 amouschat.com
@@ -92,14 +81,10 @@ api.tellonym.me
 image.apiteamn.com
 prod.apiteamn.com
 bermuda-e96c4.firebaseapp.com
-bermuda-store-v2.thebermuda.net
 bermuda-e96c4.firebaseio.com
 ba-dot-bermuda-e96c4.appspot.com
-signal-v2.thebermuda.net
 braze2-dot-bermuda-e96c4.appspot.com
 bermuda-e96c4.appspot.com
-turn0010.thebermuda.net
-turn0031.thebermuda.net
 www.randochat.com.br
 randochat-p3.nyc3.cdn.digitaloceanspaces.com
 randochat-p1.nyc3.cdn.digitaloceanspaces.com
@@ -108,8 +93,7 @@ api2.random-chat-app.ru
 yandex.ru
 s3.selcdn.ru
 random-chat-app.ru
-dw-api.holla.world
-static.holla.world
+
 api.winktesting.com
 getwinkapp.com
 www.getwinkapp.com
@@ -174,10 +158,7 @@ www.purematch.co
 api.whatschat.com
 www.whatschat.com
 assets.whatschat.com
-image.mydates.com
-cimage.mydates.com
-api.mydates.com
-mydates.com
+
 app.playfmk.com 
 api.playfmk.com
 joostly.com
@@ -231,13 +212,8 @@ zwinkr.de
 www.whatsaffair.de
 whatsaffair.de
 media.whatsaffair.de
-www.seitensprungmarkt.com
-seitensprungmarkt.com
-media.seitensprungmarkt.com
 www.seitensprungtreff24.com
 media.seitensprungtreff24.com
-www.fkkdates.com
-fkkdates.com
 purematch.org
 api.purematch.org
 www.purematch.co
