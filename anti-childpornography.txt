@@ -1,7 +1,6 @@
-eu.tetoo.net
-us.tetoo.net
+||tetoo.net^
 api16-access-sg.pangle.io
-api.c2me.cc
+||c2me.cc^
 
 twiqapp.firebaseio.com
 firestore.googleapis.com
@@ -11,17 +10,14 @@ linecorp.com
 line.naver.jp
 lin.ee
 
-talk-box.morpheus-meetic.fr
-sdk.messenger.morpheus-meetic.fr
-disclosure.morpheus-meetic.fr
-www.meetic.fr
+||meetic.fr^
 authent.ilius.net
 
-api.happn.fr
-a.happn.com
+||happn.fr^
+||happn.com^
 
 diceclubs-prod3.bintapi.com
-images.diceclubsazure.com
+||diceclubsazure.com^
 diceclubs-prod1.bintapi.com
 diceclubs-prod2.bintapi.com
 bliveclub.table.core.windows.net
@@ -30,17 +26,15 @@ bliveclub.table.core.windows.com
 blivechallenge.table.core.windows.com
 bliveclub.table.core.windows.org
 blivechallenge.table.core.windows.org
-diceclubs.com
+||diceclubs.com^
 blive2.table.core.windows.net
 dcimages.blob.core.windows.net
-diceclub.app
-diceclubs.app
+||diceclub.app^
+||diceclubs.app^
 b-interaktive.com
 
 whisper.api.tigertext.me
-prod-android.whisper.sh
-cdn-client.whisper.sh
-cdn-client-video.whisper.sh
+||whisper.sh^
 
 weixin.qq.com
 wechat.com
