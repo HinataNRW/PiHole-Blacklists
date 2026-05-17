@@ -36,11 +36,11 @@ b-interaktive.com
 whisper.api.tigertext.me
 ||whisper.sh^
 
-weixin.qq.com
-wechat.com
-wx.qq.com 
+||weixin.qq.com^
+||wechat.com^
+||wx.qq.com^
 
-verifymeetups.com
+||verifymeetups.com^
 
 mtalk.google.com
 chat.google.com
@@ -58,20 +58,13 @@ sc-static.net
 snapkit.com
 snap-storage-cdn.l.google.com
 
-api.jaumo.com
-push.jaumo.com
-i.jaumo.com
-fremtrfn.club
-date.fremdgehen69.com
-c.fremtrfn.club
-meetsinglewomen.club
-api.popcorn-dating.com
-img.popcorn-dating.com
-amouschat.com
-moneta.tellonym.me
-chat-api.tellonym.me
-a.tellonym.me
-api.tellonym.me
+||jaumo.com^
+||fremtrfn.club^
+||fremdgehen69.com^
+||meetsinglewomen.club^
+||popcorn-dating.com^
+||amouschat.com^
+||tellonym.me^
 image.apiteamn.com
 prod.apiteamn.com
 bermuda-e96c4.firebaseapp.com
@@ -79,14 +72,13 @@ bermuda-e96c4.firebaseio.com
 ba-dot-bermuda-e96c4.appspot.com
 braze2-dot-bermuda-e96c4.appspot.com
 bermuda-e96c4.appspot.com
-www.randochat.com.br
+||randochat.com.br^
 randochat-p3.nyc3.cdn.digitaloceanspaces.com
 randochat-p1.nyc3.cdn.digitaloceanspaces.com
 randochat-p2.nyc3.cdn.digitaloceanspaces.com
-api2.random-chat-app.ru
+||random-chat-app.ru^
 yandex.ru
 s3.selcdn.ru
-random-chat-app.ru
 
 api.winktesting.com
 getwinkapp.com
@@ -97,11 +89,10 @@ pushservice.spotted.de
 spotted-alpha.azureedge.net
 jobs.spotted.de
 wink-6068d.firebaseapp.com
-api.lovd.de
-belovd.app
-api.belovd.app
-belovd.de
-belovd.com
+||lovd.de^
+||belovd.app^
+||belovd.de^
+||belovd.com^
 api2.shuffley.io
 appconfig.shuffley.io
 mqtt2.shuffley.io
