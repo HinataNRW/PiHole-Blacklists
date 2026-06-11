@@ -16,7 +16,6 @@ meet.google.com
 hangouts.clients6.google.com
 snap-storage-cdn.l.google.com
 
-||tetoo.net^
 api16-access-sg.pangle.io
 
 twiqapp.firebaseio.com
