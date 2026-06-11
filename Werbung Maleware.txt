@@ -1,11 +1,4 @@
 #Werbung
-||taboola.com^
-||taboolanews.com^
-||seedtag.com^
-||yieldlab.net^
-||yieldlab.com^
-||virtualminds.com^
-||vungle.com^
 ||thestartmagazine.com^
 ||adform.net^
 ||pubmatic.com^
