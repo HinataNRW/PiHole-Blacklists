@@ -21,17 +21,6 @@ api16-access-sg.pangle.io
 twiqapp.firebaseio.com
 firestore.googleapis.com
 
-line.me
-linecorp.com
-line.naver.jp
-lin.ee
-
-||meetic.fr^
-authent.ilius.net
-
-||happn.fr^
-||happn.com^
-
 Dice Club und Phishing
 ||bintapi.com^
 ||diceclubsazure.com^
