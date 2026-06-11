@@ -18,7 +18,6 @@ snap-storage-cdn.l.google.com
 
 ||tetoo.net^
 api16-access-sg.pangle.io
-||c2me.cc^
 
 twiqapp.firebaseio.com
 firestore.googleapis.com
@@ -34,19 +33,14 @@ authent.ilius.net
 ||happn.fr^
 ||happn.com^
 
-diceclubs-prod3.bintapi.com
+Dice Club und Phishing
+||bintapi.com^
 ||diceclubsazure.com^
-diceclubs-prod1.bintapi.com
-diceclubs-prod2.bintapi.com
-bliveclub.table.core.windows.net
-blivechallenge.table.core.windows.net
-bliveclub.table.core.windows.com
-blivechallenge.table.core.windows.com
-bliveclub.table.core.windows.org
-blivechallenge.table.core.windows.org
+||table.core.windows.net^
+||table.core.windows.com^
+||table.core.windows.org^
 ||diceclubs.com^
-blive2.table.core.windows.net
-dcimages.blob.core.windows.net
+||blob.core.windows.net^
 ||diceclub.app^
 ||diceclubs.app^
 ||b-interaktive.com^
